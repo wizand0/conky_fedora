@@ -12,7 +12,7 @@ Install:
 
 Screenshot:
 
-![screenshot](images/screenshot5.png)
+![screenshot](screenshot.png)
 
 Original conky config:
 https://github.com/monkey-d-luffy-102016/conky_config/archive/refs/heads/main.zip
